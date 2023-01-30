@@ -1,2 +1,2 @@
-# NextWave-static-website
-Static website
+# NextWave-Responsive-website
+Responsive website
